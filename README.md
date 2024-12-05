@@ -18,6 +18,7 @@ Using ssh to remote connection to target machine
 <br>
 Security Weaknesses: FTP misconfigurations, weak passwords, and sudo misconfigurations.
 <br>
+<br>
 Full guide on thm Bounty Hacker.pdf
 <br>
 https://github.com/avwrgit123/Guide-to-solve-thm-Bounty-Hacker/blob/main/thm%20Bounty%20Hacker.pdf
