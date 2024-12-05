@@ -1,5 +1,5 @@
-# Guide-to-solve-thm-Bounty-Hacker
-Guide-to-solve-tryhackme-Bounty-Hacker
+# Guide-to-solve-thm-Bounty-Hacker-machine
+Guide-to-solve-tryhackme-Bounty-Hacker-machine
 <br>
 Summery:
 <br>
